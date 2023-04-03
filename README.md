@@ -1,6 +1,6 @@
 # Midjourney
 
-VARIETY CHOCOLATE PRALINE
+## VARIETY CHOCOLATE PRALINE
 
 VARIETY CHOCOLATE PRALINES CHOCOLATE MIX PIECES FALLING ON
 CHOCOLATE SAUCE AND MILK CREAM SPLASH 3D ILLUSTRATION. MIX
@@ -60,6 +60,16 @@ PICTURE, 4K,
 —upbeta —c 100 —v 4 —ar 3:2 —s 750 —q 2
 
 
-# SPRING FLOWERS STYLE 
+## SPRING FLOWERS STYLE 
 
 @ZALOME_6 , CREATIVE SPRING BACKGROUND, FULL , SHARP PICTURE --upbeta --c 100 --v 4 --ar 3:2 --s 750 --q 2
+
+## A futuristic garden party with robots and people mingling
+
+### Prompt 1: 
+Depicta lively futuristic garden party using watercolor painting, incorporating a blend of Alphonse Mucha and Isaac Asimov concepts. 
+The scene should be lit with soft, natural daylight filtering through the trees, showcasing bright, lush greens and pastels with metallic accents. Capture the image with a 35mm prime lens, focusing on the interactions between humans and robots in a mid-shot.
+
+### Prompt 2:
+Create a vibrant techno-organic garden gathering using acrylic painting, combining elements of Art Nouveau and Cyberpunk. The lightining should consist of dappled sunlight casting intricate shadows across the scene, with rich greens, soft pastels, and contrasting neon tones, for the color palatte. Frame the scene with a 50mm prime lens, highlighting the mingling of people and robots with a wide establishing shot. --ar 2:1 --v 5
+
